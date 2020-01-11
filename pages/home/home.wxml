@@ -1,3 +1,6 @@
 <!--pages/home/home.wxml-->
 <text>Hello World</text>
 <image src="smile.jpg"></image>
+
+<view>1.知识点1</view>
+<view>kekekeke</view>
